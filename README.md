@@ -13,12 +13,6 @@ Contents
  * Mods for SAxVCxLC (specifically adjusted)
 
 # SAxVCxLC
-Adds the GTA Vice City and Liberty City maps into GTA San Andreas. GTA SA remains fully playable and modable: mods for SA work also with SAxVCxLC. SAxVCxLC is clean basis for modding by external mods.
-
-For discussions, see: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
-
-## Main Author:
-PlatinumSerb
 
 ## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
@@ -26,8 +20,6 @@ PlatinumSerb
 * HeicoDE - Bugfixes, script updates
 * eagle152 - zone/gang fixes
 * chaosbginwenrealityend - Culling fixes
-* artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
-* Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 
 ## Credits/Special Thanks:
 Providing help and additional ressources
@@ -132,7 +124,4 @@ Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 * GarageExtender grgx.asi doesn't seem to work properly with SilentPatch, eg. the Pay'n'Spray doesn't work. [See here](https://gtaforums.com/topic/536465-garage-extender/?do=findComment&comment=1070398545)
 
 # Mods for SAxVCxLC (specifically adjusted)
-SAxVCxLC is compatible with most mods for normal SA. Below is a list of mods that are specially adjusted or created for SAxVCxLC.
-* Project Props (http://gtaforums.com/topic/885393-project-props/)
-
-
+SAxVCxLC is compatible with most mods for normal SA. Below is a list of mods that are specially adjus
